@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "88160675888fbf8eabd0df47a75800d7",
+    "revision": "ad3a1cd71423fc50c280f5d287d70b67",
     "url": "/hambrg/index.html"
   },
   {
-    "revision": "c38fd7ed86659127c0e2",
+    "revision": "4c9beb1bc7ccf45603fa",
     "url": "/hambrg/static/css/main.a5016412.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hambrg/static/js/2.c8c44459.chunk.js"
   },
   {
-    "revision": "c38fd7ed86659127c0e2",
-    "url": "/hambrg/static/js/main.fbccba84.chunk.js"
+    "revision": "4c9beb1bc7ccf45603fa",
+    "url": "/hambrg/static/js/main.d26bc9b0.chunk.js"
   },
   {
     "revision": "36230744676f2a23b5ee",
