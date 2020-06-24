@@ -3,18 +3,23 @@ import "./App.scss";
 import Header from "./components/Header";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
+import Home from "./components/Home";
+
 function App() {
   return (
     <Router>
       <div className="App">
+        <div className="homebg">
+          <div className="layer"></div>
+        </div>
         <Header />
         <div className="container">
           <div className="wrapper">
             <div className="home">
               <Switch>
-                <Route exact path="/hambrg" component={Home} />
-                <Route exact path="/opportunities" component={Opportunities} />
-                <Route exact path="/solutions" component={Solutions} />
+                <Route exact path="/styl" component={Home} />
+                <Route exact path="/clothing" component={Clothing} />
+                <Route exact path="/brands" component={Brands} />
                 <Route exact path="/contact-us" component={Contact} />
               </Switch>
             </div>
@@ -25,29 +30,16 @@ function App() {
   );
 }
 
-function Opportunities() {
-  return <p>Discover our numerous opportunities</p>;
+function Clothing() {
+  return <p>Discover our selected clothings</p>;
 }
 
-function Solutions() {
-  return <p>Solutions that help you.</p>;
+function Brands() {
+  return <p>Our brands</p>;
 }
 
 function Contact() {
   return <p>Feel free to reach us.</p>;
 }
 
-function Home() {
-  return (
-    <div className="container">
-      <div className="wrapper">
-        <h5>
-          The <b>HAMBRG</b>, is a creative, engineer driven, global agency
-          working on advancing the software, advertising and design communities
-          to new heights.
-        </h5>
-      </div>
-    </div>
-  );
-}
 export default App;

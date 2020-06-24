@@ -161,9 +161,9 @@ const Hamburger = ({ state }) => {
                       onMouseEnter={(e) => handleHover(e)}
                       onMouseOut={(e) => handleHoverExit(e)}
                       ref={(el) => (line1 = el)}
-                      to="/opportunities"
+                      to="/clothing"
                     >
-                      Opportunities
+                      Clothing
                     </Link>
                   </li>
                   <li>
@@ -171,9 +171,9 @@ const Hamburger = ({ state }) => {
                       onMouseEnter={(e) => handleHover(e)}
                       onMouseOut={(e) => handleHoverExit(e)}
                       ref={(el) => (line2 = el)}
-                      to="/solutions"
+                      to="/brands"
                     >
-                      Solutions
+                      Brands
                     </Link>
                   </li>
                   <li>
@@ -191,14 +191,14 @@ const Hamburger = ({ state }) => {
               <div ref={(el) => (info = el)} className="info">
                 <h3>Our Promise</h3>
                 <p>
-                  Everyday carry gastropub affogato 3 wolf moon chicharrones
-                  street art iceland DIY godard adaptogen wayfarers roof party
-                  jean shorts. XOXO YOLO celiac sriracha health goth
-                  lumbersexual four loko kale chips art party locavore.
+                  STYL exists for the love of fashion. We believe in empowering
+                  individuality. Our mission is to be the global technology
+                  platform for luxury fashion, connecting creators, curators and
+                  consumers.
                 </p>
               </div>
               <div className="locations">
-                Locations:
+                Stores:
                 {cities.map((el) => (
                   <span
                     key={el.name}
