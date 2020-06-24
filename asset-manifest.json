@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/hambrg/static/css/main.a5016412.chunk.css",
-    "main.js": "/hambrg/static/js/main.d26bc9b0.chunk.js",
-    "main.js.map": "/hambrg/static/js/main.d26bc9b0.chunk.js.map",
-    "runtime-main.js": "/hambrg/static/js/runtime-main.66db8df2.js",
-    "runtime-main.js.map": "/hambrg/static/js/runtime-main.66db8df2.js.map",
-    "static/js/2.c8c44459.chunk.js": "/hambrg/static/js/2.c8c44459.chunk.js",
-    "static/js/2.c8c44459.chunk.js.map": "/hambrg/static/js/2.c8c44459.chunk.js.map",
-    "index.html": "/hambrg/index.html",
-    "precache-manifest.247ed3f2fb5d38ac044849a2cbe01707.js": "/hambrg/precache-manifest.247ed3f2fb5d38ac044849a2cbe01707.js",
-    "service-worker.js": "/hambrg/service-worker.js",
-    "static/css/main.a5016412.chunk.css.map": "/hambrg/static/css/main.a5016412.chunk.css.map",
-    "static/media/austin.webp": "/hambrg/static/media/austin.a7aadf33.webp",
-    "static/media/beijing.webp": "/hambrg/static/media/beijing.209dcd10.webp",
-    "static/media/dallas.webp": "/hambrg/static/media/dallas.2bc38187.webp",
-    "static/media/newyork.webp": "/hambrg/static/media/newyork.ebb81965.webp",
-    "static/media/sanfrancisco.webp": "/hambrg/static/media/sanfrancisco.b58ad59e.webp"
+    "main.css": "/styl/static/css/main.9f337c33.chunk.css",
+    "main.js": "/styl/static/js/main.0483fb24.chunk.js",
+    "main.js.map": "/styl/static/js/main.0483fb24.chunk.js.map",
+    "runtime-main.js": "/styl/static/js/runtime-main.b2e36f07.js",
+    "runtime-main.js.map": "/styl/static/js/runtime-main.b2e36f07.js.map",
+    "static/js/2.c8c44459.chunk.js": "/styl/static/js/2.c8c44459.chunk.js",
+    "static/js/2.c8c44459.chunk.js.map": "/styl/static/js/2.c8c44459.chunk.js.map",
+    "index.html": "/styl/index.html",
+    "precache-manifest.af84aea84bc6526e0651daf885ce5360.js": "/styl/precache-manifest.af84aea84bc6526e0651daf885ce5360.js",
+    "service-worker.js": "/styl/service-worker.js",
+    "static/css/main.9f337c33.chunk.css.map": "/styl/static/css/main.9f337c33.chunk.css.map",
+    "static/media/austin.webp": "/styl/static/media/austin.a7aadf33.webp",
+    "static/media/beijing.webp": "/styl/static/media/beijing.209dcd10.webp",
+    "static/media/dallas.webp": "/styl/static/media/dallas.2bc38187.webp",
+    "static/media/App.scss": "/styl/static/media/homebackground.d3fc164d.jpg",
+    "static/media/newyork.webp": "/styl/static/media/newyork.ebb81965.webp",
+    "static/media/sanfrancisco.webp": "/styl/static/media/sanfrancisco.b58ad59e.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.66db8df2.js",
+    "static/js/runtime-main.b2e36f07.js",
     "static/js/2.c8c44459.chunk.js",
-    "static/css/main.a5016412.chunk.css",
-    "static/js/main.d26bc9b0.chunk.js"
+    "static/css/main.9f337c33.chunk.css",
+    "static/js/main.0483fb24.chunk.js"
   ]
 }
